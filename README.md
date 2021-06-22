@@ -1,5 +1,5 @@
 # How to create a numpy array 
-__either by__\
+__Either by__\
 __1.  casting a list or tuple A to an array method arr=np.array(A) __\
 __OR__\
 __2. by using  one of the built in functions for a Numpy arrays such as np.array.zeros() and array.ones() arr.linspace() and eye() and__\
