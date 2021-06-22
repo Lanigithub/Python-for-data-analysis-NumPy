@@ -12,6 +12,8 @@ __2.attributes: shape, dtype, ndim, size__\
 
 
 # Numpy Array Indexing, slicing and selection
-__1. Indexing:__
-__2. Slicing:__
-__3.Selection:__
+__1. Indexing:__\
+__2. Slicing:__\
+__3.Selection:__\
+
+# Numpy Array operations
