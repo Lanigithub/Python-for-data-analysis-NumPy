@@ -1,4 +1,4 @@
-#__<font size="+3">***How to create a numpy array either by</font>__\
+__#***How to create a numpy array either by__\
 __1.  casting a list to a higher array or__\
 __2. by using  one of the built in functions for a Numpy arrays such as arr.zeros and ones linspace and eye and__\
 
