@@ -13,7 +13,7 @@ __2.attributes: shape, dtype, ndim, size__
 
 # Numpy Array Indexing, slicing and selection
 ## Indexing:Array indexing is the same as accessing an array element.
-__A= array[1,2,3,4] A[0]= 1, A[-1]=4(negative index from the end__\ 
+__A= array[1,2,3,4] A[0]= 1, A[-1]=4(negative index from the end)__
 
 __You can access an array element by referring to its index number.   A =array[[1,2,3,4], [5,6,7,8]  A[1, 2]=A[1][2]=A[row][column]=element on 2nd row and 3rd column= 7__
 
@@ -23,7 +23,7 @@ __The indexes in NumPy arrays start with 0, meaning that the first element has i
 
 __We pass slice instead of index like this: [start:end].__
 
-__We can also define the step, like this: [start:end:step].__
+__We can also define the step, like this: [start: end: step].__
 
 __If we don't pass start its considered 0__
 
