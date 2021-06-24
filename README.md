@@ -35,3 +35,6 @@ __3.Selection:__\
 __4. Amending:__
 
 # Numpy Array operations
+### __1.Array with array__
+### 2.Array with scalars
+### 3.Array with universal functions ufunc
