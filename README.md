@@ -35,6 +35,9 @@ __3.Selection:__\
 __4. Amending:__
 
 # Numpy Array operations
-### __1.Array with array__
-### 2.Array with scalars
-### 3.Array with universal functions ufunc
+### __1.Array with array: Simple arrays arithmetics operations: +, -, * , / ,//, %, ** ( power)
+operations on corresponding elements(same index) from each array__
+
+### 2.Array with scalars: 
+### 3.Array with universal functions ufunc: np.add(X,Y), np.subtract(), np.multiply(), np.abs(), np.remainder(), np.divmod() ( return two arrays: quotient and remainder)
+
